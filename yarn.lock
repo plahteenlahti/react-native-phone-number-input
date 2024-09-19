@@ -587,6 +587,16 @@
     deepmerge "^3.2.0"
     hoist-non-react-statics "^3.3.0"
 
+"@perttu/react-native-country-picker-modal@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@perttu/react-native-country-picker-modal/-/react-native-country-picker-modal-2.0.0.tgz#99a4129e06f46dfb1ab85cfbd901003305db66d0"
+  integrity sha512-BSRdVkFWcKCvWgtNq81AGHzcGywdMKB0Ltn1zfuPQUzxGO5WZxWWxctcKGZRpie+whcLFFAk9+Kvj987uFP1Ig==
+  dependencies:
+    "@callstack/react-theme-provider" "3.0.9"
+    fuse.js "3.4.5"
+    node-emoji "1.11.0"
+    react-async-hook "4.0.0"
+
 ansi-styles@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.1.tgz#41fbb20243e50b12be0f04b8dedbf07520ce841d"
@@ -818,15 +828,6 @@ react-is@^16.7.0:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
-
-"react-native-country-picker-modal@https://github.com/plahteenlahti/react-native-country-picker-modal.git":
-  version "2.0.0"
-  resolved "https://github.com/plahteenlahti/react-native-country-picker-modal.git#ad8225c768e7e6379e46d7adecc2f5d6711d697f"
-  dependencies:
-    "@callstack/react-theme-provider" "3.0.9"
-    fuse.js "3.4.5"
-    node-emoji "1.11.0"
-    react-async-hook "4.0.0"
 
 react-refresh@^0.4.0:
   version "0.4.3"
