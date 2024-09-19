@@ -587,10 +587,10 @@
     deepmerge "^3.2.0"
     hoist-non-react-statics "^3.3.0"
 
-"@perttu/react-native-country-picker-modal@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@perttu/react-native-country-picker-modal/-/react-native-country-picker-modal-2.0.1.tgz#42e1801695b833bd3953cf179d25a9d5bc7560eb"
-  integrity sha512-H7cWdrIluH8GKSvntOmScRdlYjvE6PgTOyIG7fGsP2FL/rEIm1XBQgpfKLmfKQouQDGaFbURtQJOrleJVqmRnQ==
+"@perttu/react-native-country-picker-modal@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@perttu/react-native-country-picker-modal/-/react-native-country-picker-modal-2.0.2.tgz#975ae4825f7f2dcca88dd56a27a80aab49706e2f"
+  integrity sha512-wdnK8/1r7MKcXRkpHd88rIIwgS+oZx8vYMSbdthQ8VaaI3CV1KMcfVhH4oVNNd/sayxL7BKVyboweSqu74EVaQ==
   dependencies:
     "@callstack/react-theme-provider" "3.0.9"
     fuse.js "3.4.5"

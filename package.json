@@ -31,7 +31,7 @@
     "android"
   ],
   "dependencies": {
-    "@perttu/react-native-country-picker-modal": "^2.0.1",
+    "@perttu/react-native-country-picker-modal": "^2.0.2",
     "google-libphonenumber": "^3.2.10"
   },
   "devDependencies": {
